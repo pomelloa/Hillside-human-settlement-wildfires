@@ -1,6 +1,6 @@
-# Highland human setteltment exposure to wildfires
+# Highland human settlement exposure to wildfires
 
-This repository contains code for generating **Highland human setteltment (HHS)** and **wildfires** layers, along with validation codes.
+This repository contains code for generating **Highland human settlement (HHS)** and **wildfires** layers, along with validation codes.
 
 ## Contents
 - HHS generation
